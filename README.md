@@ -1,3 +1,13 @@
+### Cool things about using cypress to test components
+-	You can test routing to make sure that a component displays a certain way on a certain page
+-	You can make sure that events were called or not with spies
+-	You get to use the same syntax as cypress, meaning less downtime to learn a new testing framework
+-	Way faster to test, and can step through each step for easy debugging
+
+### Things that worry me:
+-	How do you set up a component with data?
+-	How do I test a component’s subcomponents? What if the subcomponents require the parent component?
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
